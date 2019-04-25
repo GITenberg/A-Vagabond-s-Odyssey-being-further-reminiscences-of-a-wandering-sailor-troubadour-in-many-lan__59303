@@ -1,11 +1,16 @@
 _repo: A-Vagabond-s-Odyssey-being-further-reminiscences-of-a-wandering-sailor-troubadour-in-many-lan__59303
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59303-h/images/cover.jpg
 creator:
   author:
     agent_name: Safroni-Middleton, Arnold
     gutenberg_agent_id: '50060'
     url: http://www.gutenberg.org/2009/agents/50060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59303#A-Vagabond-s-Odyssey-being-further-reminiscences-of-a-wandering-sailor-troubadour-in-many-lan_
 gutenberg_issued: '2019-04-18'
 gutenberg_type: Text
 identifiers:
